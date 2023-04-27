@@ -1,0 +1,15 @@
+*{
+    background-color: lightpink;
+}
+
+.emoji {
+    margin-left: 500px;
+    
+}
+.one {
+    margin-left: -500px;
+}
+
+.one h1 {
+    text-decoration: underline;
+}
